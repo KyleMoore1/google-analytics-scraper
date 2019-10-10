@@ -1,4 +1,4 @@
-#Google Analytics Monthly Scraper
+# Google Analytics Monthly Scraper
 
 This is a Python command line tool to scrape google analytics data into a google sheets document built with Google Analytics API and Google Sheets API.
 
